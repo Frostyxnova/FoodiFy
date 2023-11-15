@@ -33,17 +33,17 @@ An e-commerce app which provide a new platform to order food items from various 
 - Picasso
 
 ```
-![Screenshot 1](https://imgur.com/USZWeJi)
-![Screenshot 2](https://imgur.com/USZWeJi)
-![Screenshot 3](https://imgur.com/CmlHySB)
-![Screenshot 4](https://imgur.com/N4sxcN1)
-![Screenshot 5](https://imgur.com/HwFEC7l)
-![Screenshot 6](https://imgur.com/h2XrnuZ)
-![Screenshot 7](https://imgur.com/u5bZB9m)
-![Screenshot 8](https://imgur.com/rqudGpo)
-![Screenshot 9](https://imgur.com/u5bZB9m)
+## Screenshots
 
-
+![Screenshot 1](https://i.imgur.com/USZWeJi.jpg)
+![Screenshot 2](https://i.imgur.com/USZWeJi.jpg)
+![Screenshot 3](https://i.imgur.com/CmlHySB.jpg)
+![Screenshot 4](https://i.imgur.com/N4sxcN1.jpg)
+![Screenshot 5](https://i.imgur.com/HwFEC7l.jpg)
+![Screenshot 6](https://i.imgur.com/h2XrnuZ.jpg)
+![Screenshot 7](https://i.imgur.com/u5bZB9m.jpg)
+![Screenshot 8](https://i.imgur.com/rqudGpo.jpg)
+![Screenshot 9](https://i.imgur.com/u5bZB9m.jpg)
 
 
 
