@@ -33,61 +33,15 @@ An e-commerce app which provide a new platform to order food items from various 
 - Picasso
 
 ```
-## Screenshots
-#
-# Login 
-
-![App Screenshot](https://github.com/Frostyxnova/FoodiFy/blob/master/F1.jpg?raw=true)
-
-#
-# Sign up 
-
-![App Screenshot](https://github.com/Frostyxnova/FoodiFy/blob/master/F2.jpg?raw=true)
-
-
-#
-# Home
-
-![App Screenshot](https://github.com/Frostyxnova/FoodiFy/blob/master/F3.jpg?raw=true)
-
-#
-# Navigation Drawer
-
-![App Screenshot](https://github.com/Frostyxnova/FoodiFy/blob/master/F4.jpg?raw=true)
-
-
-#
-# Profile
-
-![App Screenshot](https://github.com/Frostyxnova/FoodiFy/blob/master/F5.jpg?raw=true)
-
-#
-# FAQ
-
-![App Screenshot](https://github.com/Frostyxnova/FoodiFy/blob/master/F6.jpg?raw=true)
-
-#
-# Favorite
-
-![App Screenshot](https://github.com/Frostyxnova/FoodiFy/blob/master/F7.jpg?raw=true)
-
-
-#
-# Order successful
-
-![App Screenshot](https://github.com/Frostyxnova/FoodiFy/blob/master/F8.jpg?raw=true)
-
-#
-# Cart
-
-![App Screenshot](https://github.com/Frostyxnova/FoodiFy/blob/master/F9.jpg?raw=true)
-
-
-
-#
-# Sorting feature
-![App Screenshot](https://github.com/Frostyxnova/FoodiFy/blob/master/F10.jpg?raw=true)
-
+![Screenshot 1](https://imgur.com/USZWeJi)
+![Screenshot 2](https://imgur.com/USZWeJi)
+![Screenshot 3](https://imgur.com/CmlHySB)
+![Screenshot 4](https://imgur.com/N4sxcN1)
+![Screenshot 5](https://imgur.com/HwFEC7l)
+![Screenshot 6](https://imgur.com/h2XrnuZ)
+![Screenshot 7](https://imgur.com/u5bZB9m)
+![Screenshot 8](https://imgur.com/rqudGpo)
+![Screenshot 9](https://imgur.com/u5bZB9m)
 
 
 
