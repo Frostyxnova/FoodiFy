@@ -34,16 +34,32 @@ An e-commerce app which provide a new platform to order food items from various 
 
 ```
 ## Screenshots
-
+# Sign up
 ![Screenshot 1](https://i.imgur.com/USZWeJi.jpg)
-![Screenshot 2](https://i.imgur.com/USZWeJi.jpg)
+
+# Login
+![Screenshot 2](https://i.imgur.com/CWIrv5W.jpg)
+
+# Home
 ![Screenshot 3](https://i.imgur.com/CmlHySB.jpg)
+
+# Order History
 ![Screenshot 4](https://i.imgur.com/N4sxcN1.jpg)
+
+# Favorite
 ![Screenshot 5](https://i.imgur.com/HwFEC7l.jpg)
+
+# Q&A 
 ![Screenshot 6](https://i.imgur.com/h2XrnuZ.jpg)
+
+# Splash Screen
 ![Screenshot 7](https://i.imgur.com/u5bZB9m.jpg)
+
+# Sorting
 ![Screenshot 8](https://i.imgur.com/rqudGpo.jpg)
-![Screenshot 9](https://i.imgur.com/u5bZB9m.jpg)
+
+# Drawer
+![Screenshot 9](https://i.imgur.com/zGHWM50.jpg)
 
 
 
